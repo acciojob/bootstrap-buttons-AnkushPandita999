@@ -1,6 +1,70 @@
 
 /* Your CSS Code here. */
-<button type="button" class="btn btn-link">Link</button>
-.button{
-	background-color: blueviolet;
-}
+/* <button type="button" class="btn btn-link">Link</button> */
+.btn-primary { 
+             background-color: blue;
+			color: white;
+             margin: 1px;
+             border-radius: 3px;
+			border: none;
+             
+        }
+        /*Button 5*/
+        .btn-warning { 
+             background-color: yellow;
+             margin: 1px;
+             border-radius: 3px;
+             width: 100%;
+			border: none;
+             
+        }
+        /*Button 2*/
+        .btn-secondary { 
+             background-color: white;
+             margin: 1px;
+             border-radius: 3px;
+		
+            
+        }
+        /*Button 3*/
+        .btn-success { 
+             background-color: green;
+             margin: 1px;
+             border-radius: 3px;
+			border: none;
+           
+        }
+        /*Button 4*/
+        .btn-danger { 
+             background-color: red;
+             margin: 1px;
+             border-radius: 3px;
+			border: none;
+             
+        }
+            /*Button 6*/
+        .btn-info { 
+             background-color: skyblue;
+             margin: 1px;
+             border-radius: 3px;
+			border: none;
+            
+        }
+        /*Button 7*/
+        .btn-Light { 
+             margin: 1px;
+			background-color: yellow
+			border: none;
+			
+             
+        }
+        /*Button 8*/
+        .btn-dark { 
+			background-color: white;
+           color:blue;
+             margin: 1px;
+             border-radius: 3px;
+             border: none;
+             text-decoration: underline;
+             
+        }
